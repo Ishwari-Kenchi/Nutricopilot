@@ -2,6 +2,7 @@
 
 NutriCoPilot is an AI-native web application that transforms complex food ingredient labels into meaningful health insights.  
 Unlike traditional OCR tools, NutriCoPilot acts as a **decision-support system**, analyzing ingredient synergy, inferring user intent, and highlighting real health trade-offs in real time.
+**Link**-https://nutricopilot-112180359347.us-west1.run.app/
 
 ---
 
