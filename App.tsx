@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { AppState, AnalysisResult } from './types';
-import { analyzeIngredients } from './services/geminiService';
-import InputSection from './components/InputSection';
-import AnalysisResultView from './components/AnalysisResultView';
-import LoadingView from './components/LoadingView';
+import { analyzeIngredients } from './services/geminiService.ts';
+import InputSection from './components/InputSection.tsx';
+import AnalysisResultView from './components/AnalysisResultView.tsx';
+import LoadingView from './components/LoadingView.tsx';
 
 const App: React.FC = () => {
   const [state, setState] = useState<AppState>({
